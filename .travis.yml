@@ -1,5 +1,5 @@
 os: linux
-language:ruby
+language: ruby
 services:
   - docker
   
