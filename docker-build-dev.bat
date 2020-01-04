@@ -1,0 +1,1 @@
+docker build -t pete-by/reactapp-dev -f Dockerfile.dev .
